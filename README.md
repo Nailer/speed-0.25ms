@@ -50,7 +50,7 @@ python3 assemble.py out/final final.mp4
 
 ## Credits and disclosure
 
-- The scripts were written with the help of an AI coding assistant (Claude, by Anthropic). The author directed, reviewed and ran them.
+- Made with an AI coding assistant (Claude, by Anthropic), which wrote and ran the scripts and helped develop the idea. The author directed and approved the work.
 - No AI-generated images, video, textures, models or audio.
 - Typeface: Inter (SIL Open Font License), bundled with Blender.
 
